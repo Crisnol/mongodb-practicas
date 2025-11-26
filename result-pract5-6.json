@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2364"
+    },
+    "nombre": "Inception 2",
+    "año": 2010,
+    "genero": "Ciencia ficción",
+    "director": "Christopher Nolan",
+    "reparto": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page",
+      "Tom Hardy"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2363"
+    },
+    "nombre": "Interstellar",
+    "año": 2014,
+    "genero": "Ciencia ficción",
+    "director": "richard feyman",
+    "reparto": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2365"
+    },
+    "nombre": "The Dark Knight",
+    "año": 2008,
+    "genero": "Ciencia ficción",
+    "director": "Christopher Nolan",
+    "reparto": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2366"
+    },
+    "nombre": "Dunkirk",
+    "año": 2017,
+    "genero": "Ciencia ficción",
+    "director": "Christopher Nolan",
+    "reparto": [
+      "Fionn Whitehead",
+      "Tom Hardy",
+      "Kenneth Branagh",
+      "Cillian Murphy"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2367"
+    },
+    "nombre": "Memento",
+    "año": 2000,
+    "genero": "Ciencia ficción",
+    "director": "Christopher Nolan",
+    "reparto": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano",
+      "Mark Boone Junior"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2368"
+    },
+    "nombre": "Batman Begins",
+    "año": 2005,
+    "genero": "Ciencia ficción",
+    "director": "Christopher Nolan",
+    "reparto": [
+      "Christian Bale",
+      "Michael Caine",
+      "Liam Neeson",
+      "Katie Holmes"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2369"
+    },
+    "nombre": "The Prestige",
+    "año": 2006,
+    "genero": "Ciencia ficción",
+    "director": "Christopher Nolan",
+    "reparto": [
+      "Hugh Jackman",
+      "Christian Bale",
+      "Scarlett Johansson",
+      "Michael Caine"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d236b"
+    },
+    "nombre": "Following",
+    "año": 1998,
+    "genero": "Ciencia ficción",
+    "director": "Christopher Nolan",
+    "reparto": [
+      "Jeremy Theobald",
+      "Alex Haw",
+      "Lucy Russell",
+      "Dickon Tolson"
+    ]
+  }
+]

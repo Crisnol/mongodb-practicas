@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d237c"
+    },
+    "nombre": "Vol 1 MIB ",
+    "año": 1992,
+    "genero": "Ciencia ficción",
+    "director": "Barry Sonnenfeld",
+    "reparto": [
+      "Will Smith",
+      "Tommy Lee Jones",
+      "Linda Fiorentino",
+      "Vincent D'Onofrio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d237b"
+    },
+    "nombre": "Vol 4 MIB versión 2",
+    "año": 1990,
+    "genero": "Ciencia ficción",
+    "director": "Barry Sonnenfeld",
+    "reparto": [
+      "Will Smith",
+      "Tommy Lee Jones",
+      "Linda Fiorentino",
+      "Vincent D'Onofrio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2377"
+    },
+    "nombre": "Hombres de Negro",
+    "año": 1997,
+    "genero": "Ciencia ficción",
+    "director": "Barry Sonnenfeld",
+    "reparto": [
+      "Will Smith",
+      "Tommy Lee Jones",
+      "Linda Fiorentino",
+      "Vincent D'Onofrio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d237a"
+    },
+    "nombre": "Hombres de Negro IV",
+    "año": 2019,
+    "genero": "Ciencia ficción",
+    "director": "F. Gary Gray",
+    "reparto": [
+      "Chris Hemsworth",
+      "Tessa Thompson",
+      "Liam Neeson",
+      "Emma Thompson"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d237e"
+    },
+    "nombre": "Comic: Hombres de Negro Vol. 4",
+    "año": 1996,
+    "genero": "Ciencia ficción",
+    "director": "Barry Sonnenfeld",
+    "reparto": [
+      "Will Smith",
+      "Tommy Lee Jones",
+      "Linda Fiorentino",
+      "Vincent D'Onofrio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2379"
+    },
+    "nombre": "Hombres de Negro III",
+    "año": 2012,
+    "genero": "Ciencia ficción",
+    "director": "Barry Sonnenfeld",
+    "reparto": [
+      "Will Smith",
+      "Tommy Lee Jones",
+      "Josh Brolin",
+      "Jemaine Clement"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d237d"
+    },
+    "nombre": "Comic: Hombres de Negro Vol. 3",
+    "año": 1994,
+    "genero": "Ciencia ficción",
+    "director": "Barry Sonnenfeld",
+    "reparto": [
+      "Will Smith",
+      "Tommy Lee Jones",
+      "Linda Fiorentino",
+      "Vincent D'Onofrio"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2378"
+    },
+    "nombre": "Hombres de Negro II",
+    "año": 2002,
+    "genero": "Ciencia ficción",
+    "director": "Barry Sonnenfeld",
+    "reparto": [
+      "Will Smith",
+      "Tommy Lee Jones",
+      "Rosario Dawson",
+      "Rip Torn"
+    ]
+  }
+]

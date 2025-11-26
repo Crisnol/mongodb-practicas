@@ -1,0 +1,17 @@
+[
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2370"
+    },
+    "nombre": "Comic: Iron Man Vol. 1",
+    "año": 1968,
+    "genero": "Ciencia ficción",
+    "director": "Stan Lee",
+    "reparto": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Don Cheadle",
+      "Mickey Rourke"
+    ]
+  }
+]

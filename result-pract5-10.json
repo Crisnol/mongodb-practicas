@@ -1,0 +1,15 @@
+{
+  "_id": {
+    "$oid": "691e10bcf8c30e4d187d237c"
+  },
+  "nombre": "Vol 1 MIB ",
+  "año": 1992,
+  "genero": "Ciencia ficción",
+  "director": "Barry Sonnenfeld",
+  "reparto": [
+    "Will Smith",
+    "Tommy Lee Jones",
+    "Linda Fiorentino",
+    "Vincent D'Onofrio"
+  ]
+}

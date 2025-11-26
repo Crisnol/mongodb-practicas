@@ -1,0 +1,15 @@
+{
+  "_id": {
+    "$oid": "691e10bbf8c30e4d187d234f"
+  },
+  "nombre": "Cuatro Fantásticos",
+  "año": 2005,
+  "genero": "Ciencia ficción",
+  "director": "Tim Story",
+  "reparto": [
+    "Ioan Gruffudd",
+    "Jessica Alba",
+    "Chris Evans",
+    "Michael Chiklis"
+  ]
+}

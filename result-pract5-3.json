@@ -1,0 +1,19 @@
+[
+  {
+    "_id": {
+      "$oid": "691e10bbf8c30e4d187d235b"
+    },
+    "nombre": "Avengers: Infinity War",
+    "año": 2018,
+    "genero": "Ciencia ficción",
+    "director": "Anthony y Joe Russo",
+    "reparto": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson",
+      "Josh Brolin"
+    ]
+  }
+]

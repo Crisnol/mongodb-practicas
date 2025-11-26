@@ -1,0 +1,15 @@
+{
+  "_id": {
+    "$oid": "691e10bcf8c30e4d187d236d"
+  },
+  "nombre": "Iron Man",
+  "año": 2008,
+  "genero": "Ciencia ficción",
+  "director": "Jon Favreau",
+  "reparto": [
+    "Robert Downey Jr.",
+    "Gwyneth Paltrow",
+    "Terrence Howard",
+    "Jeff Bridges"
+  ]
+}

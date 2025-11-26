@@ -1,0 +1,17 @@
+[
+  {
+    "_id": {
+      "$oid": "691e10bcf8c30e4d187d2369"
+    },
+    "nombre": "The Prestige",
+    "año": 2006,
+    "genero": "Ciencia ficción",
+    "director": "Christopher Nolan",
+    "reparto": [
+      "Hugh Jackman",
+      "Christian Bale",
+      "Scarlett Johansson",
+      "Michael Caine"
+    ]
+  }
+]
